@@ -14,4 +14,4 @@
 - por medio de String.fromCharCode(i) devolver la cadena original
 - Regresar la frase original al usuario por medio de un console.log()
 
-![Esta el la imagen del diagrama](./assets/images/diagrama-código-cesar.png)
+![Esta el la imagen del diagrama](./assets/images/diagrama-codigo-cesar.png)
