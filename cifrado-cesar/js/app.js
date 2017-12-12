@@ -1,5 +1,6 @@
 var sentence = prompt("Escriba una frase"); //Variable con la frase del usuario
 
+
 function cipher (prompt){
   for(var i = 0; i<sentence.length; i++){
       if (sentence [i] === "" || typeof sentence[i] !== "string"){
